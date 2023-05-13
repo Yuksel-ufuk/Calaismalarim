@@ -1,0 +1,15 @@
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\bin\Debug\net6.0\Metotlarr.exe
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\bin\Debug\net6.0\Metotlarr.deps.json
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\bin\Debug\net6.0\Metotlarr.runtimeconfig.json
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\bin\Debug\net6.0\Metotlarr.dll
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\bin\Debug\net6.0\Metotlarr.pdb
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.dll
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\refint\Metotlarr.dll
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.pdb
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\Metotlarr.genruntimeconfig.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlarr\obj\Debug\net6.0\ref\Metotlarr.dll

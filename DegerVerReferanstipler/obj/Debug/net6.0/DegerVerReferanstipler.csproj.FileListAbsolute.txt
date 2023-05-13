@@ -1,0 +1,5 @@
+D:\yazılım geliştirme\ConsoleApp1\DegerVerReferanstipler\obj\Debug\net6.0\DegerVerReferanstipler.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\DegerVerReferanstipler\obj\Debug\net6.0\DegerVerReferanstipler.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\DegerVerReferanstipler\obj\Debug\net6.0\DegerVerReferanstipler.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\DegerVerReferanstipler\obj\Debug\net6.0\DegerVerReferanstipler.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\DegerVerReferanstipler\obj\Debug\net6.0\DegerVerReferanstipler.csproj.CoreCompileInputs.cache

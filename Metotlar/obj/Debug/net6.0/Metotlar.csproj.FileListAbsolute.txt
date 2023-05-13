@@ -1,0 +1,5 @@
+D:\yazılım geliştirme\ConsoleApp1\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache

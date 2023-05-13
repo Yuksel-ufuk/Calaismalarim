@@ -1,0 +1,15 @@
+D:\yazılım geliştirme\ConsoleApp1\OOP1\bin\Debug\net6.0\OOP1.exe
+D:\yazılım geliştirme\ConsoleApp1\OOP1\bin\Debug\net6.0\OOP1.deps.json
+D:\yazılım geliştirme\ConsoleApp1\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+D:\yazılım geliştirme\ConsoleApp1\OOP1\bin\Debug\net6.0\OOP1.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP1\bin\Debug\net6.0\OOP1.pdb
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.pdb
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP1\obj\Debug\net6.0\ref\OOP1.dll

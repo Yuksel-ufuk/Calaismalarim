@@ -1,0 +1,15 @@
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\bin\Debug\net6.0\OOP.2.exe
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\bin\Debug\net6.0\OOP.2.deps.json
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\bin\Debug\net6.0\OOP.2.runtimeconfig.json
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\bin\Debug\net6.0\OOP.2.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\bin\Debug\net6.0\OOP.2.pdb
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\refint\OOP.2.dll
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.pdb
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\OOP.2.genruntimeconfig.cache
+D:\yazılım geliştirme\ConsoleApp1\OOP.2\obj\Debug\net6.0\ref\OOP.2.dll

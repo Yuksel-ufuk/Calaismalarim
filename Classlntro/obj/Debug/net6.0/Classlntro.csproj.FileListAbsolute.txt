@@ -1,0 +1,15 @@
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\bin\Debug\net6.0\Classlntro.exe
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\bin\Debug\net6.0\Classlntro.deps.json
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\bin\Debug\net6.0\Classlntro.runtimeconfig.json
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\bin\Debug\net6.0\Classlntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\bin\Debug\net6.0\Classlntro.pdb
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\refint\Classlntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.pdb
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\Classlntro.genruntimeconfig.cache
+D:\yazılım geliştirme\ConsoleApp1\Classlntro\obj\Debug\net6.0\ref\Classlntro.dll

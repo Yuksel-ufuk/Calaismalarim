@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Döngülerr/1.0.0": {
+        "dependencies": {
+          "Metotlarr": "1.0.0"
+        },
+        "runtime": {
+          "Döngülerr.dll": {}
+        }
+      },
+      "Metotlarr/1.0.0": {
+        "runtime": {
+          "Metotlarr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Döngülerr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metotlarr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

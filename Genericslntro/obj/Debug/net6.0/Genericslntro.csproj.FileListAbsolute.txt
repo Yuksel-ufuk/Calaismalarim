@@ -1,0 +1,15 @@
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.AssemblyInfo.cs
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\bin\Debug\net6.0\Genericslntro.exe
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\bin\Debug\net6.0\Genericslntro.deps.json
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\bin\Debug\net6.0\Genericslntro.runtimeconfig.json
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\bin\Debug\net6.0\Genericslntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\bin\Debug\net6.0\Genericslntro.pdb
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\refint\Genericslntro.dll
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.pdb
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\Genericslntro.genruntimeconfig.cache
+D:\yazılım geliştirme\ConsoleApp1\Genericslntro\obj\Debug\net6.0\ref\Genericslntro.dll
